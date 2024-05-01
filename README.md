@@ -1,15 +1,15 @@
 Hi 👋 My name is Kathayut Kannasoot
 ===================================
 
-Junior Developer and (Future) Game Dev
+Junior Developer and (Future) Data Scientist
 --------------------------------------
 
-Interested in Data and Game Development Currently Studying in Chulalongkorn University
+Interested in Data and Software Development Currently Studying in Chulalongkorn University
 
 * 🌍  I'm based in Nakornpathom, Thailand
 * ✉️  You can contact me at [KathayutKannasoot@gmail.com](mailto:KathayutKannasoot@gmail.com)
 * 🧠  I'm learning SQL
-* 🤝  I'm open to collaborating on Game Dev and Backend Project
+* 🤝  I'm open to collaborating on Data and Backend Project
 
 ### Skills
 
